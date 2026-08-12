@@ -16,3 +16,4 @@ const validator = new InputValidator({
 - ✓ Ferrow request protection
 
 ## License: MIT
+## Examples

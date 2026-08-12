@@ -1,0 +1,19 @@
+# input-validator
+> Rule-string validation engine ("required|number|min:18"), nested object schemas, array item validation, custom rules, and full error collection with field paths. Zero runtime dependencies.
+
+A rule-string validation engine for TypeScript/Node — Laravel-style rule strings (`"required|number|min:18|max:120"`), nested object schemas, array item validation, custom rule registration, and full error collection (not
+
+## API
+- `RuleFn`
+- `ValidationError`
+- `ValidationResult`
+- `FieldSchema`
+- `Schema`
+- `registerRule`
+- `validate`
+- `InputValidator`
+
+## Install
+Each library is a standalone GitHub repo under github.com/Ruzylo-cloud.
+
+Part of the Ferrow open-source toolkit: https://github.com/Ruzylo-cloud/ferrow-toolkit — sponsored by https://ferrow.ai

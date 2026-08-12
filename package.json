@@ -1,1 +1,21 @@
-{"name":"input-validator","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["ferrow"],"license":"MIT"}
+{
+  "name": "input-validator",
+  "version": "2.0.0",
+  "description": "Rule-string validation engine (\"required|number|min:18\"), nested object schemas, array item validation, custom rules, and full error collection with field paths. Zero runtime dependencies.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node examples/demo.js"
+  },
+  "keywords": [
+    "validation",
+    "validator",
+    "schema",
+    "typescript",
+    "input-validation",
+    "rules"
+  ],
+  "author": "Ruzylo-cloud",
+  "license": "MIT"
+}

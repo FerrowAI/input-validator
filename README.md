@@ -1,4 +1,5 @@
 # input-validator
+![CI](https://github.com/FerrowAI/input-validator/actions/workflows/ci.yml/badge.svg)
 
 A rule-string validation engine for TypeScript/Node — Laravel-style rule
 strings (`"required|number|min:18|max:120"`), nested object schemas, array

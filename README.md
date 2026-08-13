@@ -1,4 +1,8 @@
 # input-validator
+
+```sh
+npm install @ferrow/input-validator
+```
 ![CI](https://github.com/FerrowAI/input-validator/actions/workflows/ci.yml/badge.svg)
 
 A rule-string validation engine for TypeScript/Node — Laravel-style rule

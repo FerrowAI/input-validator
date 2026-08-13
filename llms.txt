@@ -1,4 +1,6 @@
 # input-validator
+
+Install: npm install @ferrow/input-validator
 > Rule-string validation engine ("required|number|min:18"), nested object schemas, array item validation, custom rules, and full error collection with field paths. Zero runtime dependencies.
 
 A rule-string validation engine for TypeScript/Node — Laravel-style rule strings (`"required|number|min:18|max:120"`), nested object schemas, array item validation, custom rule registration, and full error collection (not

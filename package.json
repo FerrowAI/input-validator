@@ -1,5 +1,5 @@
 {
-  "name": "input-validator",
+  "name": "@ferrow/input-validator",
   "version": "2.0.0",
   "description": "Rule-string validation engine (\"required|number|min:18\"), nested object schemas, array item validation, custom rules, and full error collection with field paths. Zero runtime dependencies.",
   "main": "dist/index.js",
